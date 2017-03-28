@@ -1,7 +1,7 @@
 # Master-Detail Template for React Native apps
 
-![](.github/MasterScreen.ios.png?raw=true)
-![](.github/MasterScreen.android.png?raw=true)
+![](https://github.com/hramos/react-native-template-master-detail/raw/master/.github/MasterScreen.ios.png?raw=true)
+![](https://github.com/hramos/react-native-template-master-detail/raw/master/.github/MasterScreen.android.png?raw=true)
 
 This is a basic template that provides a minimal master-detail app, similar to Xcode's Master Detail template and Android Studio's Master Detail Layout template. It uses `react-navigation` and the 0.43 Release Candidate.
 
