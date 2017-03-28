@@ -1,11 +1,4 @@
 {
   "name": "react-native-template-master-detail",
-  "version": "0.0.1",
-  "description": "A React Native template providing a master-detail base project.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hramos/react-native-template-master-detail.git"
-  },
-  "author": "Héctor Ramos",
-  "homepage": "https://github.com/hramos/react-native-template-master-detail#readme"
+  "version": "0.0.2",
 }
