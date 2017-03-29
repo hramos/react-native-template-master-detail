@@ -14,7 +14,7 @@ This is a basic template that provides a minimal master-detail app, similar to X
 You can use the template by running:
 
 ```
-react-native init --template master-detail
+react-native init MyApp --version 0.43.0-rc.4 --template master-detail
 ```
 
 Note that this is by convention. The package name is `react-native-template-master-detail`, and the template can be used by passing `master-detail` to the `--template` flag when running `react-native init`.

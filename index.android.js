@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
 import MainNavigator from './views/MainNavigator';
 
-AppRegistry.registerComponent('RNTodoF8', () => MainNavigator);
+AppRegistry.registerComponent('HelloWorld', () => MainNavigator);
